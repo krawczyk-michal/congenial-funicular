@@ -16,6 +16,24 @@
       "revId": "a2891e562c08280e6992ec2cba12e856b9970926",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "3666baad_9553be7e",
+        "filename": "fun",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1009345
+      },
+      "writtenOn": "2020-10-21T14:57:17Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7da3afbe_2dc06985",
+      "revId": "a2891e562c08280e6992ec2cba12e856b9970926",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
