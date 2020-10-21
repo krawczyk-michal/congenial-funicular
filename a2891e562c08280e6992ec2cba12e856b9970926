@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7da3afbe_2dc06985",
+        "filename": "fun",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1018160
+      },
+      "writtenOn": "2020-10-21T14:54:19Z",
+      "side": 1,
+      "message": "Remove trailing newline.",
+      "revId": "a2891e562c08280e6992ec2cba12e856b9970926",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
