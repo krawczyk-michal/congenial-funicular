@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "d4b56b47_6171b1dd",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1018160
+      },
+      "writtenOn": "2020-10-21T14:53:29Z",
+      "side": 1,
+      "message": "Capitalize commit message.",
+      "revId": "7b3a261541ef77e95b77b7f87cb2a53f97abf4c7",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": true
+    }
+  ]
+}
