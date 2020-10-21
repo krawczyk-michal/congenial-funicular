@@ -1,0 +1,1 @@
+Funkcjonalnosc 1.
